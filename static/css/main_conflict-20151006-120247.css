@@ -413,6 +413,7 @@ div.navbar-collapse.navbar-ex1-collapse.collapse.in {
 
 .splash {
     color: #585858;
+    margin-bottom: 50px;
     
 }
 .splash-box {
@@ -422,16 +423,7 @@ div.navbar-collapse.navbar-ex1-collapse.collapse.in {
     padding: 20px
 }
 
-.blog-box {
-    margin-top: 40px;
-    color:white;
-    background-color: #23675F;
-    padding: 20px
-}
 .block {
     display: block;
     overflow: hidden;
-}
-.navbar-brand {
-	padding:0px 15px;
 }
